@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AC Installation & Services | Pune Pimpri Chinchwad</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Best AC Installation & Repair Services in Pune Pimpri Chinchwad. Call Now 7378930860">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">AC INSTALLATION & SERVICES</div>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section id="home" class="hero">
+    <h1>Best AC Installation & Repair Services in Pune</h1>
+    <p>Fast • Affordable • Trusted Service in Pimpri Chinchwad</p>
+    <a href="tel:7378930860" class="btn">Call Now</a>
+    <a href="https://wa.me/917378930860" class="btn whatsapp">WhatsApp</a>
+</section>
+
+<section id="services" class="services">
+    <h2>Our Services</h2>
+
+    <div class="service-box">
+
+        <div class="card">
+            <img src="images/ac-install.jpg" alt="AC Installation">
+            <h3>AC Installation</h3>
+        </div>
+
+        <div class="card">
+            <img src="images/ac-repair.jpg" alt="AC Repair">
+            <h3>AC Repair</h3>
+        </div>
+
+        <div class="card">
+            <img src="images/ac-service.jpg" alt="AC Service">
+            <h3>AC Maintenance</h3>
+        </div>
+
+    </div>
+</section>
+
+<section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <p>📍 Pune Pimpri Chinchwad</p>
+    <p>📞 7378930860</p>
+    <a href="tel:7378930860" class="btn">Call Now</a>
+</section>
+
+<footer>
+    <p>© 2026 AC INSTALLATION & SERVICES</p>
+</footer>
+
+</body>
+</html>
